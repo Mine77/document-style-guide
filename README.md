@@ -1,4 +1,6 @@
-中文技术文档的写作规范。
+## 文档协作规范
+
+参考 Ruan YiFeng 的[中文文档规范](https://github.com/ruanyf/document-style-guide)修改成的文档协作规范。
 
 ## 目录
 
