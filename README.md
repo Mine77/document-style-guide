@@ -13,9 +13,6 @@
     1. [Readme 文档规范](docs/structures/readme-structure.md)
     1. [API 文档规范](docs/structures/api-structure.md)
     1. [教程文档规范](docs/structures/tutorial-structure.md)
-1. 文档模版
-    1. [Readme 文档模版](docs/templates/readme-template.md)
-    2. [API 文档模版](docs/templates/api-template.md)
 1. [参考链接](docs/reference.md)
 
 ## License
