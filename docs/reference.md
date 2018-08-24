@@ -10,3 +10,5 @@
 - [中文排版需求](http://w3c.github.io/clreq/), by W3C
 - [为什么文件名要小写？](http://www.ruanyifeng.com/blog/2017/02/filename-should-be-lowercase.html), by 阮一峰
 - [Google Developer Documentation Style Guide](https://developers.google.com/style/), by Google
+- [Rust 文档](https://doc.rust-lang.org/stable/book/first-edition/index.html)
+- [Elements of Styles](http://www.jlakes.org/ch/web/The-elements-of-style.pdf)
