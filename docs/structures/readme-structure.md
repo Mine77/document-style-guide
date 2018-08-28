@@ -94,11 +94,11 @@ Explain another group of parameters one by one:
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository（这个链接需要自己修改一下）](https://github.com/your/project/tags). 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md（这个我还没写好）]() for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Acknowledgments
 
@@ -108,6 +108,6 @@ Please read [CONTRIBUTING.md]() for details on our code of conduct, and the proc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md（这个链接需要自己修改一下）](LICENSE.md) file for details
 
 
