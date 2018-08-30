@@ -1,4 +1,9 @@
-# 一般文档规范
+# 文档规范
+
+## 各类型文档规范
+* [GitHub Readme 规范](readme-structure.md)
+* [API 文档规范](api-structure.md)
+* [教程文档规范](tutorial-structure.md)
 
 ## 文件名
 
