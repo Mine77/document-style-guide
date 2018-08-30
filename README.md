@@ -9,7 +9,7 @@
 1. [段落](docs/paragraph.md)
 1. [数值](docs/number.md)
 1. [标点符号](docs/marks.md)
-1. [一般文档规范](docs/structures/structure.md)
+1. [文档规范](docs/structures/structure.md)
     1. [Readme 文档规范](docs/structures/readme-structure.md)
     1. [API 文档规范](docs/structures/api-structure.md)
     1. [教程文档规范](docs/structures/tutorial-structure.md)
