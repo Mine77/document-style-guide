@@ -40,7 +40,19 @@
 正确：advanced-usage.md
 ```
 
-## 参考
+## 参考链接模版 (Reference Links)
+中文版：
+* [Cryptape](https://www.cryptape.com/) - 中国第一的信任创造技术公司
+* [Nervos Foundation](https://www.nervos.org/) - 下一代加密经济基础设施
+Next Generation of Infrastructure for Cryptoeconomics
+* [Nervos Forums](https://forums.nervos.org) - Nervos 开发者的论坛
+
+英文版：
+* [Cryptape](https://www.cryptape.com/) - No.1 Trust-Building Technology Company in China
+* [Nervos Foundation](https://www.nervos.org/) - Next Generation of Infrastructure for Cryptoeconomics
+* [Nervos Forums](https://forums.nervos.org) - Forums for Nervos Developers
+
+## 参考读物
 
 - [Redux 手册](http://redux.js.org/index.html)
 - [Atom 手册](http://flight-manual.atom.io/)

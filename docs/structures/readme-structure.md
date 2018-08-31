@@ -87,9 +87,7 @@ Explain another group of parameters one by one:
 
 
 ## Reference Links
-
-* [Cryptape](https://www.cryptape.com/) - No.1 Blockchain Technology Company in China
-* [Nervos Foundation](https://www.nervos.org/) - Next Generation of Infrastructure for Cryptoeconomics
+[参考这里](structure.md)
 
 ## Versioning
 
