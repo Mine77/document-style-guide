@@ -1,29 +1,14 @@
-# 一般文档规范
+# 文档规范
 
-## 结构
+## 各类型文档规范
+* [GitHub Readme 规范](readme-structure.md)
+* [API 文档规范](api-structure.md)
+* [教程文档规范](tutorial-structure.md)
 
-软件手册是一部完整的书，建议采用下面的结构。
+## 文档注意事项 
+1. 如果某部分描述的内容依赖于其他文档的内容，如某个 API 的参数字段等，则建议连接到相应文档去，而不是在本地文档里重复描述一遍。这是基于文档实效性而做出的考虑：在使用了链接的情况下，如果被依赖的文档做出了更改，本地文档不需要实时作出相应的修改；若未使用链接，如果依赖文档作出修改，则需要相应的去修改本地文档，会影响实效性，同时增加不必要的工作量。  
+例如：交易参数的具体说明请参考 [CITA 相关文档](https://docs.nervos.org/cita/#/rpc_guide/rpc?id=%E6%9E%84%E9%80%A0protobuf%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
 
-- **简介**（Introduction）： [必备] [文件] 提供对产品和文档本身的总体的、扼要的说明
-- **快速上手**（Getting Started）：[可选] [文件] 如何最快速地使用产品
-- **入门篇**（Basics）： [必备] [目录] 又称”使用篇“，提供初级的使用教程
-  - **环境准备**（Prerequisite）：[必备] [文件] 软件使用需要满足的前置条件
-  - **安装**（Installation）：[可选] [文件] 软件的安装方法
-  - **设置**（Configuration）：[必备] [文件] 软件的设置
-- **进阶篇**（Advanced)：[可选] [目录] 又称”开发篇“，提供中高级的开发教程
-- **API**（Reference）：[可选] [目录|文件] 软件 API 的逐一介绍
-- **FAQ**：[可选] [文件] 常见问题解答
-- **附录**（Appendix）：[可选] [目录] 不属于教程本身、但对阅读教程有帮助的内容
-  - **Glossary**：[可选] [文件] 名词解释
-  - **Recipes**：[可选] [文件] 最佳实践
-  - **Troubleshooting**：[可选] [文件] 故障处理
-  - **ChangeLog**：[可选] [文件] 版本说明
-  - **Feedback**：[可选] [文件] 反馈方式
-
-下面是两个真实范例，可参考。
-
-- [Redux 手册](http://redux.js.org/index.html)
-- [Atom 手册](http://flight-manual.atom.io/)
 
 ## 文件名
 
@@ -54,3 +39,20 @@
 
 正确：advanced-usage.md
 ```
+
+## 参考链接模版 (Reference Links)
+中文版：
+* [Cryptape](https://www.cryptape.com/) - 中国第一的信任创造技术公司
+* [Nervos Foundation](https://www.nervos.org/) - 下一代加密经济基础设施
+Next Generation of Infrastructure for Cryptoeconomics
+* [Nervos Forums](https://forums.nervos.org) - Nervos 开发者的论坛
+
+英文版：
+* [Cryptape](https://www.cryptape.com/) - No.1 Trust-Building Technology Company in China
+* [Nervos Foundation](https://www.nervos.org/) - Next Generation of Infrastructure for Cryptoeconomics
+* [Nervos Forums](https://forums.nervos.org) - Forums for Nervos Developers
+
+## 参考读物
+
+- [Redux 手册](http://redux.js.org/index.html)
+- [Atom 手册](http://flight-manual.atom.io/)
