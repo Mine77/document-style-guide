@@ -1,7 +1,7 @@
 # GitHub Readme 规范
 
 ## 注意事项
-* 项目在 GitHub 上的 Readme 统一使用**英文**。
+* 项目在 GitHub 上的 Readme 需要有英文和中文两个版本，默认为英文版本。
 * 所有的配置文件：需要给出 required 和 optional。需要给出默认值。具体看模版。
 * 模版里的两个链接需要自己添加一下：`tags on this repository` 和 `LICENSE.md`
 
